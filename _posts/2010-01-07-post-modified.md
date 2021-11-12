@@ -10,6 +10,13 @@ tags:
   - Devops
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+This is a good first start for any one looking to get into DevOps, it has a practical approach to DevOps,
+Using azure DevOps as the lab. 
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+You really don't need to know anything about DevOps to start with this book all you need is just the desire to learn, having a basic understanding of git could be helpful when making use of this book. It doesn't make you a DevOps engineer, but it is a great place to start. You could study this book in a week, It is quite small but if you would follow through the steps it should take you a week or two to go through the book, if you are not going to follow the practical guide you could read the book in a day.
+
+I would also recommend John Savill's DevOps course on YouTube before you apply take on this book. John Savill's course gives you a high level introduction to DevOps and he does offer a very powerful lecture on git witch is by far the best course on git that i have seen.
+
+An approach that worked for me was to break my study time into small chunks of 2hrs and when I came across an obstacle I sometimes step away from my computer and just do a kind of passive troubleshooting where I am not actively on the problem. 
+
+It's a great book and I will recommend it.
