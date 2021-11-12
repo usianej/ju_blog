@@ -1,5 +1,5 @@
 ---
-title: "Post: Modified Date"
+title: "BOOK REVIEW:  A Practical Guide to Azure DevOps"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
@@ -8,6 +8,7 @@ tags:
   - readability
   - standard
   - Devops
+  - Book Review
 ---
 
 This is a good first start for any one looking to get into DevOps, it has a practical approach to DevOps,
